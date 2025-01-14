@@ -13,6 +13,7 @@
 - git push origin <branch> - Envia commits da branch local para o respositório remoto.
 
 ## Links Úteis.
-[Link para download do Git:](https://git-scm.com/downloads)
-[Documentação Git](https://git-scm.com/docs/)
-[Documentação GitHub](https://docs.github.com/pt)
+- [Link para download do Git](https://git-scm.com/downloads)
+- [Link para o GitHub](https://github.com)
+- [Documentação Git](https://git-scm.com/docs/)
+- [Documentação GitHub](https://docs.github.com/pt)
